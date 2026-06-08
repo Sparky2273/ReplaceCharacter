@@ -1,0 +1,13 @@
+# ReplaceCharacter — Python dependencies
+#
+# Install with:  pip install -r requirements.txt
+#
+# Only one non-standard package is needed — everything else is Python stdlib.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── GUI ───────────────────────────────────────────────────────────────────────
+PyQt6>=6.6.0
+
+# ── Already in Python stdlib (listed for reference, do NOT install) ───────────
+# os, re, sys, json, logging, shutil
+# copy, datetime, pathlib, typing
